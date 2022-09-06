@@ -7,12 +7,12 @@
         <h2><b>PERSONAL REGISTRADO</b></h2>            
     </div>
     <div class="panel-body">
-	    <br><br>
+	    <br>
 	    <div class="col-md-10"> 
 	        <div class=" input-group">
 	          	<input type="text" class="form-control" placeholder="Ingrese el documento de identidad nacional" id="txtbuscar_personal"  onkeypress="return soloNumeros(event)"  >
 	          	<span class="input-group-addon"><i class="fa fa-search"></i></span>
-				<h1>lohihihi</h1>
+				
 	        </div>
 	    </div>
 	    <div class="col-md-2">
